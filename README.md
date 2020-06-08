@@ -23,7 +23,7 @@ In this projects, gulp is configured to automate the following functions:
 
 2- clone the repository.
 
-3- install the development dependencies.
+3- `npm i` to install the dependencies.
 
 4- customize the object `paths` if required. 
 
